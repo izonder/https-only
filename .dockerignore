@@ -1,0 +1,9 @@
+.git/
+_bak/
+docs/
+test/
+.editorconfig
+.gitignore
+.gitattributes
+Dockerfile
+README.md
